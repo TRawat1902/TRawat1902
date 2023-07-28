@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TRawat1902
-- 👀 I’m interested in Android Development, Blockchain and UI/UX Design.
-- 🌱 I’m currently learning Android Development, Blockchain and UI/UX Design.
-- 💞️ I’m looking to collaborate on Android Development, Blockchain and UI/UX Design.
+- 👀 I’m interested in Data Structures, Web Development and Android Development.
+- 🌱 I’m currently learning Data Structures and Web Development.
+- 💞️ I’m looking to collaborate on software development projects.
 - 📫 How to reach me- Contacts- Email- trawat1902@gmail.com
 
 <!---
